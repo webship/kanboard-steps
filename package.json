@@ -1,6 +1,6 @@
 {
   "name": "@webship-js/kanboard-steps",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Cucumber step definitions for Kanboard, the open-source Kanban project management software, a pack for webship-js (Playwright and Cucumber): logging in and out and its refusal, a project's board and who may open it, its columns and its list, one task (open or closed, its comments, tags, category, assignee and subtasks, who made it, a move to another column), a new task, and what a viewer of the project or someone it does not have may not do. Test content is made and removed through the site's own API, so a run leaves the site as it found it.",
   "main": "tests/step-definitions/kanboard-helpers.js",
   "files": [
